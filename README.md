@@ -1,8 +1,13 @@
-# Cols Despite Kentucky
-Cols Despite Kentucky is an unofficial Lexington, KY-themed Cards Against Humanity supplement.  
+# Centre along Happy Valley
+Centre along Happy Valley is an unofficial State College, PA-themed Cards Against Humanity supplement inspired by Asian Steev's Cols despite Kentucky.  
 Images manipulated with [Gimp](http://gimp.org).
 
-## The Cards
+## The PA Cards
+- Peachy Paterno ice cream.
+- 
+- 
+
+## The KY Cards
 - Burning couches and getting rowdy.
 - Lovable troublemaker, Henry Earl.
 - Knowing what I mean, Vern.
@@ -32,6 +37,7 @@ Images manipulated with [Gimp](http://gimp.org).
 - Select same images from back.
 - Upload back.png for the backs.
 - Pay them money (should be less than $5 for a single deck, shipping not included). With enough quantity the price can come down to under $2 with shipping included.
+- Steev found sweet spot for quantity versus price to be 18 card decks, 72 decks, $2.21 each = $159.12
 - Wait about a week.
 - Enjoy!
 
