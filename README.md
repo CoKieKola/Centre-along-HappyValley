@@ -3,29 +3,47 @@ Centre along Happy Valley is an unofficial State College, PA-themed Cards Agains
 Images manipulated with [Gimp](http://gimp.org).
 
 ## The PA Cards
-- Peachy Paterno ice cream.
-- 
-- 
+- A mediocre date at 2000 degrees.
+- Pretending you're not exhausted while climbing Mt. Nittany.
+- Going to What-A-Blast Laser Tag "just as a joke".
+- Finally getting your name on the wall at Zeno's and being too drunk to come up with a clever quote.
+- Wishing Otto's took reservations.
+- Realizing the Corner Room is where real business happens.
+- Spelunking--on a boat.
+- The Dorito Church.
+- A broken down MegaBus. 
+- Literally fearing the deer.
+- Diner stickies.
+- Wherever they hid the JoePa statue. 
+- Only locking your doors to keep drunk people from sleeping on your couch. 
+- Where yinz is at.
+- Having an existential crisis while deciding whether to support athletics or research.
+- A stockpile of bottles from Meyer Dairy.
+- The difference between India Pavillion at Kaarma.
+- Wondering what happened to that tree in your front yard.
 
-## The KY Cards
-- Burning couches and getting rowdy.
-- Lovable troublemaker, Henry Earl.
-- Knowing what I mean, Vern.
-- My uncle that works at Lexmark.
-- Dan Wu's kimchi meatloaf.
-- A really nice mural that we had there once.
-- Muhammad Ali at the age that he is right now.
-- Literally bleeding blue due to methemoglobinemia.
-- All y'all.
-- The confusing sounds of WRFL.
-- A horse riding a cop.
-- A four-times married Rowan County Clerk.
-- A puppy that I stole from the Lexington Humane Society.
-- A fan that is very large.
-- A Willy Wonka-style tour through the JIF plant.
-- Eating a hot brown but still being kinda hungry.
-- Mitch McConnell racing an overconfident hare.
-- A shot of bourbon and an ice-cold bottle of Ale-8 One.
+## PSU Cards
+- Peachy Paterno ice cream.
+- Convincing your roommate to stand in line for a picture riding horseback on the Lion Shrine.
+- Planning your State Patty's Day outfit.
+- Cornhole on the Old Main lawn
+- Waking up in a family of four's attic and not remembering how you got there.
+- Bragging that we taught Ben & Jerry how to make ice cream.
+- Beaver Canyon during Syllabus Week.
+- a fracket.
+- Nafarious AW & Sons security guards.
+- That guy from the Bloopy/Woop.
+- An IndiBro.
+- Bong Water Monkey Boys. 
+- Pokey Stix.
+- Canning FTK.
+- Jersey Chasers. 
+- THON associated guilt.
+- The Willard Preacher.
+- That feeling you get when you're in the Stacks alone.
+
+##Patone Blue Cards
+- WE ARE...
 
 ## Print them
 - Go to [Printer Studio](http://www.printerstudio.com/personalized/custom_playing_cards_blank_cards.html).
@@ -41,6 +59,4 @@ Images manipulated with [Gimp](http://gimp.org).
 - Wait about a week.
 - Enjoy!
 
-## Changes since 1.0
-- "A Willy Wonka-style tour through the JIF factory." -> "... JIF plant."
-- "A shot of bourbon and an ice cold bottle of Ale-8 One." -> "... ice-cold ..."
+
