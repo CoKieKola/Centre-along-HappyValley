@@ -19,7 +19,7 @@ Images manipulated with [Gimp](http://gimp.org).
 - Where yinz is at.
 - Having an existential crisis while deciding whether to support athletics or research.
 - A stockpile of bottles from Meyer Dairy.
-- The difference between India Pavillion at Kaarma.
+- The difference between India Pavillion and Kaarma.
 - Wondering what happened to that tree in your front yard.
 
 ## PSU Cards
